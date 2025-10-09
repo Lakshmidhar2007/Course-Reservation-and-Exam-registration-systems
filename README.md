@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+## Reg No: 212224230138
+## Name: LAKSHMIDHAR N
+## Date:09/10/2025
 
 
 # AIM:
@@ -41,9 +41,9 @@ Specifying the context and requirements of a system
 
 
 
+```USE CASE DIAGRAM```
 
-
-
+![alt text](<Use case.png>)
 
 # CLASS DIAGRAM
 
@@ -59,16 +59,19 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+```CLASS DIAGRAM```
 
+![alt text](class.png)
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+```COMMUNICATION DIAGRAM```
 
-
+![alt text](communication.png)
 
 # PACKAGE DIAGRAM:
 
@@ -80,14 +83,15 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+```PACKAGE DIAGRAM```
 
-
+![alt text](package.png)
 
 
 
 # ACTIVITY DIAGRAM:
 
-The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
+The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrams, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
 
@@ -97,13 +101,13 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+```ACTIVITY DIAGRAM```
 
-
-
+![alt text](activity.png)
 
 # SEQUENCE DIAGRAM
 
-A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
+A sequence diagram is a type of interaction diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
@@ -119,9 +123,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+```SEQUENCE DIAGRAM```
 
-
-
+![alt text](sequence.png)
 
 # RESULT
 
