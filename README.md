@@ -114,6 +114,10 @@ A sequence diagram is a type of interaction diagram because it describes how- an
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
+```SEQUENCE DIAGRAM```
+
+![alt text](sequence.png)
+
 # BENEFITS OF SEQUENCE DIAGRAM
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
@@ -125,9 +129,6 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-```SEQUENCE DIAGRAM```
-
-![alt text](sequence.png)
 
 # RESULT
 
