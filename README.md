@@ -85,7 +85,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 ```PACKAGE DIAGRAM```
 
-![alt text](package.png)
+<img width="507" height="438" alt="image" src="https://github.com/user-attachments/assets/c69a42fb-5ac4-4451-b48c-0e1b7250d12a" />
+
 
 
 
